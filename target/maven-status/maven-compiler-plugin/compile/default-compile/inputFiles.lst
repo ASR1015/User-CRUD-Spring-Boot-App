@@ -1,0 +1,5 @@
+/Applications/Projects/Mini Project/user-crud/src/main/java/com/example/usercrud/model/User.java
+/Applications/Projects/Mini Project/user-crud/src/main/java/com/example/usercrud/service/UserService.java
+/Applications/Projects/Mini Project/user-crud/src/main/java/com/example/usercrud/controller/UserController.java
+/Applications/Projects/Mini Project/user-crud/src/main/java/com/example/usercrud/UserCrudApplication.java
+/Applications/Projects/Mini Project/user-crud/src/main/java/com/example/usercrud/repository/UserRepository.java
